@@ -1,5 +1,5 @@
 # FIR filter
-## **fir_filter_2e : **
+## **fir_filter_2e :**
 This is the baseline FIR filter module developed as an individual project. <br>
 It establishes the fundamental structure and functionality for image filtering, serving as the foundation for all subsequent optimization.
 
