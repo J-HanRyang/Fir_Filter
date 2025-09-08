@@ -14,3 +14,8 @@ This design allows the FHD image to be split into four section, with each PE pro
 
 ## **📜 Results :** 
 14.64x performance improvement in FHD image filtering by implementing a parallel architecture(4PE) and an enhanced MAC unit, confirmed through testbench simulation.
+
+<br>
+
+#### *Referenced Document*
+[Docs](https://github.com/J-HanRyang/Fir_Filter/tree/main/Docs)
