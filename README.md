@@ -12,3 +12,4 @@ The final architecture consists of a central **Core_FSM** that controls four par
 This design allows the FHD image to be split into four section, with each PE processing a section concurrently, increasing throughput.
 
 ## **📜 Results :** 
+14.64x performance improvement in FHD image filtering by implementing a parallel architecture(4PE) and an enhanced MAC unit, confirmed through testbench simulation.
