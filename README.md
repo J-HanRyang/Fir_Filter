@@ -2,7 +2,8 @@
 Digital System Design Final Project
 
 ## **⚡ Overview :** 
-This project involves the design and implementation of a digital FIR filter in Verilog, optimized for high-performance FHD(1920*1080) image processing.
+This project involves the design and implementation of a digital FIR filter in Verilog, optimized for high-performance FHD(1920*1080) image processing. <br>
+This primary goal was to overcome the performance bottleneks fo high-resolution filtering by applying a parallel architecture and enhancing the core MAC units.
 
 ## **🛠 Tools :** 
 Verilog, Questa
