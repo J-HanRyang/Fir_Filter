@@ -19,3 +19,8 @@ This design allows the FHD image to be split into four section, with each PE pro
 
 #### *Referenced Document*
 [Docs](https://github.com/J-HanRyang/Fir_Filter/tree/main/Docs)
+
+ <br>
+
+본 프로젝트는 2023년 2학기 '디지털 시스템 설계' 수업의 최종 프로젝트로 진행되었습니다. <br>
+본 자료는 포트폴리오 목적으로 공개하며, 과제 표절 등 비윤리적 목적으로 사용될 수 없습니다.
